@@ -29,11 +29,12 @@ Currently I'm a software engineering student at ISSAT Sousse. During these two y
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a><img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="WordPress" style="max-width: 100%;"></a>
-<a><img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" style="max-width: 100%;"></a>
+
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+  <a><img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" style="max-width: 100%;"></a>
 </p>
 
 
@@ -43,6 +44,6 @@ Currently I'm a software engineering student at ISSAT Sousse. During these two y
 
 ### Support Me
 
-
+<p>
 <a href="https://www.buymeacoffee.com/medayoubbahloul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+</p>
